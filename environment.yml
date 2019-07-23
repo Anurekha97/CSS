@@ -1,6 +1,6 @@
 name: binder_env
 channels:
-  - bokeh
+  - defaults
 dependencies:
   - numpy
   - psutil
@@ -12,4 +12,4 @@ dependencies:
   - bokeh
   - dask
   - xlrd 
-  - beautiful-soup
+  - beautifulsoup4
