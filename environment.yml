@@ -2,7 +2,7 @@ name: binder_env
 channels:
   - defaults
 dependencies:
-- numpy
+  - numpy
   - psutil
   - toolz
   - matplotlib
