@@ -12,4 +12,4 @@ dependencies:
   - bokeh
   - dask
   - xlrd 
-  - beautiful-soup
+  - bs4
