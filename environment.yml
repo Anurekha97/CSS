@@ -18,4 +18,4 @@ dependencies:
   - requests
   - nltk
   - punkt
-  - textblob
+  - scikit-learn=0.19.1
